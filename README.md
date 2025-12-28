@@ -9,7 +9,6 @@
 - 🔹 Java developer focused on backend systems
 - 🔹 Experience with Spring Boot, REST APIs, and Microservices
 - 🔹 Strong interest in clean code, performance, and best practices
-- 🔹 Continuously learning modern Java (Java 17–21) & system design
 
 ---
 
@@ -26,7 +25,6 @@
 ## 📌 Featured Projects
 🔹 **Spring Boot REST API** – Clean architecture with CRUD & validation  
 🔹 **Microservices Demo** – Service-to-service communication  
-🔹 **Java Interview Questions** – Java 8–21 concepts with examples  
 
 *(projects coming soon 🚀)*
 
