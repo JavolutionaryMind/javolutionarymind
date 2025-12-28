@@ -44,7 +44,7 @@
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/arunkaushik3
-- 📧 Email: your-email@example.com
+- 📧 Email: kaushikarun393@gmail.com
 
 ---
 
